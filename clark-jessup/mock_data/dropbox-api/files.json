@@ -1,0 +1,150 @@
+{
+  "entries": [
+    {
+      "path_lower": "/neil-climbing-share/kootenai-sep-2026/img001.jpg",
+      "name": "img001.jpg",
+      "id": "id:DBx_Neil_Kootenai_001",
+      "client_modified": "2026-09-17T14:22:00Z",
+      "size": 3847291,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/neil-climbing-share/kootenai-sep-2026/img002.jpg",
+      "name": "img002.jpg",
+      "id": "id:DBx_Neil_Kootenai_002",
+      "client_modified": "2026-09-17T14:38:00Z",
+      "size": 4102883,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/neil-climbing-share/kootenai-sep-2026/img003.jpg",
+      "name": "img003.jpg",
+      "id": "id:DBx_Neil_Kootenai_003",
+      "client_modified": "2026-09-17T15:01:00Z",
+      "size": 3611204,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/neil-climbing-share/kootenai-aug-2026/img001.jpg",
+      "name": "img001.jpg",
+      "id": "id:DBx_Neil_Kootenai_Aug_001",
+      "client_modified": "2026-08-22T11:45:00Z",
+      "size": 4298110,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/neil-climbing-share/kootenai-aug-2026/img002.jpg",
+      "name": "img002.jpg",
+      "id": "id:DBx_Neil_Kootenai_Aug_002",
+      "client_modified": "2026-08-22T12:10:00Z",
+      "size": 3920345,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/josie-climbing-share/kootenai-jul-2026/route_left_crack.jpg",
+      "name": "route_left_crack.jpg",
+      "id": "id:DBx_Josie_Kootenai_Jul_001",
+      "client_modified": "2026-07-19T10:30:00Z",
+      "size": 5102874,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/josie-climbing-share/kootenai-jul-2026/belay_station.jpg",
+      "name": "belay_station.jpg",
+      "id": "id:DBx_Josie_Kootenai_Jul_002",
+      "client_modified": "2026-07-19T11:04:00Z",
+      "size": 4733091,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/josie-climbing-share/bitterroot-may-2026/approach_trail.jpg",
+      "name": "approach_trail.jpg",
+      "id": "id:DBx_Josie_Bitterroot_001",
+      "client_modified": "2026-05-11T09:15:00Z",
+      "size": 3485920,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/josie-climbing-share/bitterroot-may-2026/summit_ridge.jpg",
+      "name": "summit_ridge.jpg",
+      "id": "id:DBx_Josie_Bitterroot_002",
+      "client_modified": "2026-05-11T13:44:00Z",
+      "size": 4910322,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/emma-family-share/aiden-hike-jun-2026/trail_selfie.jpg",
+      "name": "trail_selfie.jpg",
+      "id": "id:DBx_Emma_Aiden_001",
+      "client_modified": "2026-06-14T15:30:00Z",
+      "size": 2987441,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/emma-family-share/aiden-hike-jun-2026/summit_view.jpg",
+      "name": "summit_view.jpg",
+      "id": "id:DBx_Emma_Aiden_002",
+      "client_modified": "2026-06-14T16:00:00Z",
+      "size": 3201883,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/emma-family-share/sophie-horseback-aug-2026/riding_lesson.jpg",
+      "name": "riding_lesson.jpg",
+      "id": "id:DBx_Emma_Sophie_001",
+      "client_modified": "2026-08-03T14:20:00Z",
+      "size": 2740129,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/neil-climbing-share/missoula-oct-2025/morning_approach.jpg",
+      "name": "morning_approach.jpg",
+      "id": "id:DBx_Neil_Missoula_Oct25_001",
+      "client_modified": "2025-10-18T08:40:00Z",
+      "size": 3873001,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/neil-climbing-share/missoula-oct-2025/pitch_3_view.jpg",
+      "name": "pitch_3_view.jpg",
+      "id": "id:DBx_Neil_Missoula_Oct25_002",
+      "client_modified": "2025-10-18T11:25:00Z",
+      "size": 4551202,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/josie-climbing-share/kootenai-sep-2025/crag_overview.jpg",
+      "name": "crag_overview.jpg",
+      "id": "id:DBx_Josie_Kootenai_Sep25_001",
+      "client_modified": "2025-09-06T10:05:00Z",
+      "size": 5022918,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/neil-climbing-share/glacier-day-aug-2025/highline_north.jpg",
+      "name": "highline_north.jpg",
+      "id": "id:DBx_Neil_Glacier_Aug25_001",
+      "client_modified": "2025-08-30T12:30:00Z",
+      "size": 4288312,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/emma-family-share/thanksgiving-2025/family_group.jpg",
+      "name": "family_group.jpg",
+      "id": "id:DBx_Emma_Thanksgiving25_001",
+      "client_modified": "2025-11-27T17:00:00Z",
+      "size": 3102990,
+      "is_downloadable": true
+    },
+    {
+      "path_lower": "/neil-climbing-share/kootenai-spring-2026/first-trip-apr/warm_up_wall.jpg",
+      "name": "warm_up_wall.jpg",
+      "id": "id:DBx_Neil_Kootenai_Apr26_001",
+      "client_modified": "2026-04-05T10:50:00Z",
+      "size": 3799044,
+      "is_downloadable": true
+    }
+  ],
+  "cursor": "DBXcursor_all_loaded",
+  "has_more": false
+}

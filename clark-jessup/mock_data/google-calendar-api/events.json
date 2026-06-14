@@ -1,0 +1,101 @@
+{
+  "kind": "calendar#events",
+  "summary": "Clark Jessup - Personal Calendar",
+  "timeZone": "America/Denver",
+  "items": [
+    {
+      "id": "evt_westsurvey_20261005",
+      "summary": "West section field survey - Glacier NP",
+      "start": { "dateTime": "2026-10-05T08:30:00-06:00" },
+      "end": { "dateTime": "2026-10-05T12:30:00-06:00" },
+      "location": "West section trailhead, Glacier National Park",
+      "description": "Personal monitoring walk, west ridge connector and upper bench. Camera + notebook. Quick impressions on return: Segment A - minor wear, no big deal. Segment B - hard to say in the field, need to check the photo. Segment C - appears stable, some surface wear at most, nothing that looked like it needed action. All three segments walked. Logged photos on return.",
+      "status": "confirmed",
+      "attachments": [
+        { "fileId": "1DriveFile02JPG_segA", "title": "file_02.jpg" },
+        { "fileId": "1DriveFile03HEIC_segB", "title": "file_03.jpg" },
+        { "fileId": "1DriveFile07JPG_segC", "title": "file_07.jpg" }
+      ]
+    },
+    {
+      "id": "evt_eosbrief_20261008",
+      "summary": "End-of-season transition briefing prep deadline",
+      "start": { "dateTime": "2026-10-08T09:00:00-06:00" },
+      "end": { "dateTime": "2026-10-08T11:00:00-06:00" },
+      "location": "Glacier NP visitor center",
+      "description": "Field documentation must be finalized before this. Condition log entries due. Personal prep complete before arriving.",
+      "status": "confirmed",
+      "attachments": []
+    },
+    {
+      "id": "evt_monweekscan_20261005",
+      "summary": "Monday week scan",
+      "start": { "dateTime": "2026-10-05T06:30:00-06:00" },
+      "end": { "dateTime": "2026-10-05T07:00:00-06:00" },
+      "location": "",
+      "description": "Check shift schedule and flag appointment conflicts.",
+      "status": "confirmed",
+      "attachments": []
+    },
+    {
+      "id": "evt_tue_run_20261006",
+      "summary": "Morning run - riverside trail",
+      "start": { "dateTime": "2026-10-06T06:00:00-06:00" },
+      "end": { "dateTime": "2026-10-06T06:45:00-06:00" },
+      "location": "Riverside trail, Kalispell",
+      "description": "Check conditions night before. Layers if below 40F.",
+      "status": "confirmed",
+      "attachments": []
+    },
+    {
+      "id": "evt_wed_gym_20261007",
+      "summary": "Climbing gym - 5:30 PM",
+      "start": { "dateTime": "2026-10-07T17:00:00-06:00" },
+      "end": { "dateTime": "2026-10-07T18:30:00-06:00" },
+      "location": "Kalispell climbing gym",
+      "description": "Check gear bag. Shoes, chalk, harness.",
+      "status": "confirmed",
+      "attachments": []
+    },
+    {
+      "id": "evt_fri_taphouse_20261009",
+      "summary": "Friday Tap House check - possible Neil plans",
+      "start": { "dateTime": "2026-10-09T15:30:00-06:00" },
+      "end": { "dateTime": "2026-10-09T16:00:00-06:00" },
+      "location": "Montana Tap House, Kalispell",
+      "description": "End of shift check. Text Neil by 3 if on.",
+      "status": "tentative",
+      "attachments": []
+    },
+    {
+      "id": "evt_neil_hike_20261010",
+      "summary": "Day hike with Neil - Avalanche Lake trail",
+      "start": { "dateTime": "2026-10-10T08:00:00-06:00" },
+      "end": { "dateTime": "2026-10-10T15:00:00-06:00" },
+      "location": "Avalanche Lake trailhead, Glacier National Park",
+      "description": "8 AM start. Check weather Wednesday. Pack lunch. Camera if light is good. Neil driving from his place, meeting at trailhead.",
+      "status": "confirmed",
+      "attachments": []
+    },
+    {
+      "id": "evt_physical_oct_20261015",
+      "summary": "Annual physical - Dr. Alvarado reminder",
+      "start": { "date": "2026-10-15" },
+      "end": { "date": "2026-10-16" },
+      "location": "Flathead Valley Family Practice",
+      "description": "Schedule or confirm before end of October. Call 406-555-0700.",
+      "status": "confirmed",
+      "attachments": []
+    },
+    {
+      "id": "evt_glen_call_20261011",
+      "summary": "Glen call - every other Sunday",
+      "start": { "dateTime": "2026-10-11T15:00:00-06:00" },
+      "end": { "dateTime": "2026-10-11T15:45:00-06:00" },
+      "location": "",
+      "description": "Glen birthday Oct 5 already passed - make sure that came through. Ask about fishing before freeze.",
+      "status": "confirmed",
+      "attachments": []
+    }
+  ]
+}

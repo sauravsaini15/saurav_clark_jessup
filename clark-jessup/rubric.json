@@ -1,0 +1,164 @@
+[
+  {
+    "number": "R1",
+    "criterion": "The agent recorded condition Code 4 for Segment B in the trail condition log.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "state_change",
+    "importance": "critically_important",
+    "score": 5
+  },
+  {
+    "number": "R2",
+    "criterion": "The agent recorded standards version v2.3 in the trail condition log.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "state_change",
+    "importance": "critically_important",
+    "score": 5
+  },
+  {
+    "number": "R3",
+    "criterion": "The agent recorded the escalation flag Yes for Segment B in the trail condition log.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "state_change",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R4",
+    "criterion": "The agent recorded the survey date 2026-10-05 in the trail condition log.",
+    "is_positive": true,
+    "type": "instruction following",
+    "evaluation_target": "state_change",
+    "importance": "important",
+    "score": 1
+  },
+  {
+    "number": "R5",
+    "criterion": "The response explains that the file_07.jpg photo evidence overrides the calendar 'appears stable' note for Segment C under the file_04.pdf precedence rule.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "user_facing_message",
+    "importance": "critically_important",
+    "score": 5
+  },
+  {
+    "number": "R6",
+    "criterion": "The response flags that the file_06.docx prior-season Code 2 rating for Segment B differs from the Code 4 derived from the field photo.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R7",
+    "criterion": "The response justifies selecting standards version v2.3 over v1.9 by the later March 15, 2026 effective date.",
+    "is_positive": true,
+    "type": "factuality and hallucination",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R8",
+    "criterion": "The response states that Segment B Code 4 meets the file_04.pdf escalation threshold for supervisor notification within 48 hours.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R9",
+    "criterion": "The response describes the rut formation visible in the Segment B field photo supporting the Code 4 classification.",
+    "is_positive": true,
+    "type": "factuality and hallucination",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 1
+  },
+  {
+    "number": "R10",
+    "criterion": "The response identifies the October 8, 2026 briefing as the deadline for the condition log.",
+    "is_positive": true,
+    "type": "instruction following",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 1
+  },
+  {
+    "number": "R11",
+    "criterion": "The response reports condition Code 2 for Segment A drawn from the field photo evidence.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 1
+  },
+  {
+    "number": "R12",
+    "criterion": "The response reports condition Code 3 for Segment C drawn from the field photo evidence.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R13",
+    "criterion": "The response states the recommended action to restrict Segment B to foot traffic only pending maintenance.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 1
+  },
+  {
+    "number": "R14",
+    "criterion": "The response reconciles the calendar Segment C note against the file_07.jpg photo by adopting the higher-severity photo reading.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 1
+  },
+  {
+    "number": "R15",
+    "criterion": "The response presents the completed condition log covering Segment A, Segment B, and Segment C.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "final_answer",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R16",
+    "criterion": "The agent recorded condition Code 2 for Segment B in the trail condition log.",
+    "is_positive": false,
+    "type": "factuality and hallucination",
+    "evaluation_target": "state_change",
+    "importance": "critically_important",
+    "score": -5
+  },
+  {
+    "number": "R17",
+    "criterion": "The agent recorded standards version v1.9 in the trail condition log.",
+    "is_positive": false,
+    "type": "factuality and hallucination",
+    "evaluation_target": "state_change",
+    "importance": "critically_important",
+    "score": -3
+  },
+  {
+    "number": "R18",
+    "criterion": "The response states condition Code 1 for Segment C as the assessment outcome.",
+    "is_positive": false,
+    "type": "factuality and hallucination",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": -3
+  }
+]

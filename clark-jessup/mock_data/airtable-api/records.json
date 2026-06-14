@@ -1,0 +1,124 @@
+{
+  "records": [
+    {
+      "id": "recGear001",
+      "fields": {
+        "item_name": "Climbing rope - 60m dry-treated",
+        "last_replaced_date": "2025-04-10",
+        "condition_rating": "Good",
+        "next_check_date": "2026-04-10",
+        "notes": "Sterling Evolution Dry. No visible sheath damage. Used for Kootenai sessions with Josie. Check for soft spots annually."
+      }
+    },
+    {
+      "id": "recGear002",
+      "fields": {
+        "item_name": "Climbing harness",
+        "last_replaced_date": "2024-09-01",
+        "condition_rating": "Good",
+        "next_check_date": "2027-09-01",
+        "notes": "Black Diamond Momentum. Webbing looks fine. Buckles functioning. No unusual wear on belay loop."
+      }
+    },
+    {
+      "id": "recGear003",
+      "fields": {
+        "item_name": "Ski boots - alpine touring",
+        "last_replaced_date": "2023-11-15",
+        "condition_rating": "Fair",
+        "next_check_date": "2026-11-01",
+        "notes": "Scarpa Maestrale. Buckle 3 on right boot getting stiff. Sole lug wear at about 60 percent. Assess before ski season opens."
+      }
+    },
+    {
+      "id": "recGear004",
+      "fields": {
+        "item_name": "Ski poles",
+        "last_replaced_date": "2022-12-01",
+        "condition_rating": "Fair",
+        "next_check_date": "2026-11-01",
+        "notes": "Black Diamond Traverse. Left basket cracked in spring, replaced with spare. Shafts straight. Grips worn but functional."
+      }
+    },
+    {
+      "id": "recGear005",
+      "fields": {
+        "item_name": "CPAP nasal mask",
+        "last_replaced_date": "2026-07-14",
+        "condition_rating": "Good",
+        "next_check_date": "2027-01-14",
+        "notes": "ResMed AirFit N30i. Northwest Medical Supply quarterly auto-ship. Cushion replaced July. Full mask frame due January per schedule."
+      }
+    },
+    {
+      "id": "recGear006",
+      "fields": {
+        "item_name": "Trail running shoes",
+        "last_replaced_date": "2026-05-20",
+        "condition_rating": "Good",
+        "next_check_date": "2026-12-01",
+        "notes": "Hoka Speedgoat 5. About 280 miles on them. Sole lugs still good. Replace around 400-450 miles."
+      }
+    },
+    {
+      "id": "recGear007",
+      "fields": {
+        "item_name": "Crampons - 12-point",
+        "last_replaced_date": "2021-10-01",
+        "condition_rating": "Good",
+        "next_check_date": "2026-11-01",
+        "notes": "Petzl Vasak. Front points sharp, checked April. Antiball plates intact. Getting older but solid for the terrain I use them on."
+      }
+    },
+    {
+      "id": "recGear008",
+      "fields": {
+        "item_name": "Approach shoes",
+        "last_replaced_date": "2024-06-15",
+        "condition_rating": "Good",
+        "next_check_date": "2026-06-15",
+        "notes": "La Sportiva TX4. Rand holding up. Sole sticky on warm rock. Fine for another season."
+      }
+    },
+    {
+      "id": "recGear009",
+      "fields": {
+        "item_name": "Puffy jacket - insulated",
+        "last_replaced_date": "2022-01-10",
+        "condition_rating": "Fair",
+        "next_check_date": "2027-01-01",
+        "notes": "Patagonia Down Sweater. Baffle repair on left shoulder still holding with seam tape. Loft still decent. Watch that repair through winter."
+      }
+    },
+    {
+      "id": "recGear010",
+      "fields": {
+        "item_name": "Daypack - 28L",
+        "last_replaced_date": "2023-07-01",
+        "condition_rating": "Good",
+        "next_check_date": "2028-07-01",
+        "notes": "Osprey Talon 33 (running light at 28L typical load). Hip belt stitching solid. Hydration sleeve clean. No zipper issues."
+      }
+    },
+    {
+      "id": "recGear011",
+      "fields": {
+        "item_name": "Sleeping bag - 3-season",
+        "last_replaced_date": "2020-08-01",
+        "condition_rating": "Fair",
+        "next_check_date": "2026-12-01",
+        "notes": "Western Mountaineering Alpinlite 35F. Getting some loft compression. Still good to temp rated. Consider washing before next season. Maybe budget for replacement in 2027."
+      }
+    },
+    {
+      "id": "recGear012",
+      "fields": {
+        "item_name": "Tent - 3-season 2-person",
+        "last_replaced_date": "2019-05-01",
+        "condition_rating": "Due for replacement",
+        "next_check_date": "2026-10-15",
+        "notes": "Big Agnes Copper Spur UL2. Seam tape delaminating on rain fly. Pole sleeve cracked on main hoop. Been repaired twice. Retirement coming. Check REI sale fall 2026."
+      }
+    }
+  ]
+}

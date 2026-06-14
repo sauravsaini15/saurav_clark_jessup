@@ -1,0 +1,13 @@
+id,createdTime,Name,Status,Project,EstimateHours,Done
+recGear0000000001,2026-06-01T09:00:00.000Z,Climbing rope - 60m dry-treated,Good,Climbing gear,0,false
+recGear0000000002,2026-06-01T09:05:00.000Z,Black Diamond harness - Momentum,Good,Climbing gear,0,false
+recGear0000000003,2026-06-01T09:10:00.000Z,CPAP mask - ResMed AirFit F20,Due for replacement,Health equipment,0,false
+recGear0000000004,2026-06-01T09:15:00.000Z,Trail running shoes - Hoka Speedgoat 5,Fair,Running gear,0,false
+recGear0000000005,2026-06-01T09:20:00.000Z,Crampons - Black Diamond Serac,Good,Winter gear,0,false
+recGear0000000006,2026-06-01T09:25:00.000Z,Ski boots - Atomic Hawx Ultra 130,Good,Winter gear,0,false
+recGear0000000007,2026-06-01T09:30:00.000Z,Ski poles - Leki Aergon,Fair,Winter gear,0,false
+recGear0000000008,2026-06-01T09:35:00.000Z,Approach shoes - La Sportiva TX4,Due for replacement,Climbing gear,0,false
+recGear0000000009,2026-06-01T09:40:00.000Z,Base layer set - Smartwool 250 weight,Good,Layering system,0,false
+recGear0000000010,2026-06-01T09:45:00.000Z,Osprey Atmos 65L backpack,Fair,Backcountry gear,0,false
+recGear0000000011,2026-06-01T09:50:00.000Z,MSR Hubba Hubba NX 2-person tent,Good,Backcountry gear,0,false
+recGear0000000012,2026-06-01T09:55:00.000Z,Western Mountaineering sleeping bag - Alpinlite,Good,Backcountry gear,0,false

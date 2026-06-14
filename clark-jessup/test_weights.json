@@ -1,0 +1,19 @@
+{
+  "test_google_drive_files_listed": 3,
+  "test_google_drive_signal_files_downloaded": 3,
+  "test_google_drive_log_headers_present": 3,
+  "test_google_drive_log_segment_a_code_2": 1,
+  "test_google_drive_log_segment_b_code_4": 5,
+  "test_google_drive_log_segment_c_code_3": 3,
+  "test_google_drive_log_standards_version_v23": 5,
+  "test_google_drive_log_segment_b_escalation_yes": 3,
+  "test_google_drive_log_survey_date_recorded": 1,
+  "test_google_drive_log_segment_b_foot_traffic_action": 1,
+  "test_google_calendar_events_listed": 3,
+  "test_google_drive_log_stale_code_2_segment_b": -5,
+  "test_google_drive_log_old_version_v19": -3,
+  "test_google_drive_log_segment_c_low_severity": -3,
+  "test_airtable_distractor": -3,
+  "test_dropbox_distractor": -3,
+  "test_notion_distractor": -3
+}
